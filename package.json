@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/ifsclookup",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "IFSC Lookup is a simple tool for getting information on IFSC codes. It returns information on various IFSC codes.",
   "main": "index.js",
   "scripts": {
